@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sameer%20Ahmed%20G&fontSize=50&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20JavaScript%20|%20IoT&descAlign=50&descAlignY=60"/>
+</p>
+
 <h1 align="center">Hi 👋 I'm Sameer</h1>
 <h3 align="center">Full Stack Developer | JavaScript | IoT Builder</h3>
 
