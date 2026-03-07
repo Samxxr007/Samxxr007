@@ -13,27 +13,35 @@
 
 ## 🚀 Featured Applications
 
-<p align="center">
+### 📚 Prashikshan
+Training and learning platform built with modern web technologies.
 
-<a href="https://github.com/Samxxr007/Skybrisk-ERP-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samxxr007&repo=Skybrisk-ERP-App&theme=tokyonight">
-</a>
-
-<a href="https://github.com/Samxxr007/RM-Kart-Shopping-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samxxr007&repo=RM-Kart-Shopping-App&theme=tokyonight">
-</a>
-
-<a href="https://github.com/Samxxr007/Cityclean360">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samxxr007&repo=Cityclean360&theme=tokyonight">
-</a>
-
-<a href="https://github.com/Samxxr007/Prashikshan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samxxr007&repo=Prashikshan&theme=tokyonight">
-</a>
-
-</p>
+🔗 https://github.com/Samxxr007/Prashikshan
 
 ---
+
+### 🧾 Skybrisk ERP App
+Full stack ERP system for managing business workflows.
+
+🔗 https://github.com/Samxxr007/Skybrisk-ERP-App
+
+---
+
+### 🛒 RM Kart Shopping App
+E-commerce web application with product listing, cart and checkout.
+
+🔗 https://github.com/Samxxr007/RM-Kart-Shopping-App
+
+---
+
+### ♻ CityClean360
+ESP32 Smart Bin + React dashboard for waste monitoring.
+
+🔗 https://github.com/Samxxr007/Cityclean360
+
+---
+
+
 
 ## 🛠 Tech Stack
 
