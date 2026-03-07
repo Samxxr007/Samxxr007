@@ -93,10 +93,31 @@ ESP32 Smart Bin + React dashboard for waste monitoring.
 
 ---
 
-## 📫 Contact
+## 🤝 Let's Connect
 
-📧 sameerahmedg666@gmail.com  
-🌍 India
+<p>
+
+<a href="mailto:sameerahmedg666@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="28"/>
+&nbsp; sameerahmedg666@gmail.com
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/sameer2007">
+<img src="https://skillicons.dev/icons?i=linkedin" width="28"/>
+&nbsp; linkedin.com/in/sameer2007
+</a>
+
+<br><br>
+
+<a href="https://github.com/Samxxr007">
+<img src="https://skillicons.dev/icons?i=github" width="28"/>
+&nbsp; github.com/Samxxr007
+</a>
+
+</p>
+
 
 ---
 
